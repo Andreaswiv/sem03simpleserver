@@ -1,0 +1,7 @@
+  GNU nano 6.2                       .gitconfig                                 
+[user]
+        email = andreaswiv@uia.no
+        name = Andreaswiv
+[url "https://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:@github.com/"]
+        insteadOf = https://github.com/
+
